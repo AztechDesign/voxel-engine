@@ -1,4 +1,4 @@
-# voxel-engine
+# Death Tank voxel-engine
 
 ## A voxel engine in javascript using three.js
 
